@@ -1,15 +1,12 @@
 ### 👋 Hi there!
 
 #### 🧔 About me
-Hello! I'm david, I go by tykind. I'm currently in highschool.
-
+Hello! I'm david, I go by tykind. I'm currently in highschool. </br>
 Born in **9/21/2007**
 
 ####  📚 About my work
-Full-stack programmer & reverse engineer. 
- 
-My interests are mixed up withing a lot of things. 
- 
+Full-stack programmer & reverse engineer. </br>
+My interests are mixed up withing a lot of things. </br>
 The languages I use the most: C++, javascript, typescript, and lua. 
 
 
