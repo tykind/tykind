@@ -19,6 +19,6 @@ The languages I use the most: C++, javascript, typescript, and lua.
 <details>
    <summary>Stats</summary>
 
-  [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=tykind&count_private=true&bg_color=414257&text_color=C9D1D9&title_color=D779BC&icon_color=B268A0&border_color=222222&border_radius=10&custom_title=Ty kind share's%20Statistics&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=tykind&count_private=true&bg_color=414257&text_color=C9D1D9&title_color=D779BC&icon_color=B268A0&border_color=222222&border_radius=10&custom_title=TyKind's%20Statistics&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   :trollface:
 </details>
