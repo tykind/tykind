@@ -2,6 +2,7 @@
 
 #### 📜 About me
 Hello! I'm david, I go by tykind. I'm currently in highschool. </br>
+I pump iron...</br>
 Born in **9/21/2007**
 
 #### ⚒️ About my work
