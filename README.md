@@ -6,7 +6,7 @@ I pump iron...</br>
 Born in **9/21/2007**
 
 #### ⚒️ About my work
-Full-stack programmer & reverse engineer. </br>
+Full-stack developer & reverse engineer. </br>
 My interests are mixed up withing a lot of things. </br>
 The languages I use the most: C++, javascript, typescript, and lua. 
 
