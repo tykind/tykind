@@ -1,9 +1,10 @@
 ### 👋 Hi there!
 
 #### 📜 About me
-Hello! I'm david, I go by tykind. I'm currently in highschool. </br>
-I pump iron...</br>
-Born in **9/21/2007**
+My name is David. I was born in 21/9/2007, I'm currently in highschool. </br>
+I like computers and seeing how they work, as well going to the gym. </br>
+
+He/Him
 
 #### ⚒️ About my work
 Full-stack developer & reverse engineer. </br>
