@@ -9,7 +9,7 @@ He/Him
 #### ⚒️ About my work
 Full-stack developer & reverse engineer. </br>
 My interests are mixed up withing a lot of things. </br>
-The languages I use the most: C++, Rust, javascript, typescript, and lua. 
+The languages I'm competent on: C++, Rust, C#, javascript, typescript, and lua. 
 
 
 <details>
