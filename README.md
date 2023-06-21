@@ -12,7 +12,10 @@ My interests are mixed up within a lot of things.
 
 <details>
 <summary>:shipit: Languages and Tools</summary>
-   
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+     
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Luau](https://img.shields.io/badge/luau-EC4A3F?style=for-the-badge&logo=roblox&logoColor=white) ![Csharp](https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 
 ![nodejs](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -20,8 +23,10 @@ My interests are mixed up within a lot of things.
 ![React](https://img.shields.io/badge/React-0078D7?style=for-the-badge&logo=react&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ![postgresql](https://img.shields.io/badge/postgresql-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue)
+    
+  </td>
+</table>
 
-**(Unhonorable mention)**</br>
 
 </details>
 <details>
