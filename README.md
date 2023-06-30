@@ -39,6 +39,7 @@ My interests are mixed up within a lot of things.
    <summary>📊 Stats</summary>
 
   [![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=tykind&count_private=true&border_radius=8&custom_title=TyKind's%20Statistics&include_all_commits=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=tykind)](https://git.io/streak-stats)
   :trollface:
 </details>
 
