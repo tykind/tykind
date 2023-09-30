@@ -30,7 +30,7 @@ As a full-stack developer and security researcher, I delve into a myriad of intr
 <details>
    <summary>☎️ Get in Touch</summary>
    
-   [![Discord Presence](https://lanyard.cnrad.dev/api/979042218167906355)](https://discord.com/users/979042218167906355)
+   [![Discord Presence](https://lanyard.cnrad.dev/api/870554007108726855)](https://discord.com/users/870554007108726855)
 </details>
 
 <details>
