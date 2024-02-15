@@ -1,7 +1,7 @@
 ## 👋 Greetings
 
 #### 📜 About me
-Born on September 21, 2007, I'm a young enthusiast navigating entering university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
+Born on September 21, 2007, I'm a young enthusiast navigating and now entering university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
 
 🌐 Pronouns: He/Him
 
