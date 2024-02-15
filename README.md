@@ -1,12 +1,12 @@
 ## 👋 Greetings
 
 #### 📜 About me
-Born on September 21, 2007, I'm a young enthusiast navigating the corridors of high school. The digital realm of computers fascinates me—peeling back their layers, understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
+Born on September 21, 2007, I'm a young enthusiast navigating entering university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
 
 🌐 Pronouns: He/Him
 
 #### ⚒️ My Craft
-As a full-stack developer and security researcher, I delve into a myriad of intriguing areas. While it's tough to box my interests, there's a consistent thread of passion and curiosity.
+I delve into many intriguing areas as a full-stack developer and security researcher. While it's tough to box my interests, there's a consistent thread of passion and curiosity.
 
 <details>
 <summary>:shipit: Tech Arsenal</summary>
