@@ -37,9 +37,7 @@ As a full-stack developer and security researcher, I delve into many intriguing 
    <summary>📊 My Track Record</summary>
 
   ![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=tykind&count_private=true&bg_color=151515&text_color=ffffff&title_color=ffffff&icon_color=fb8c00&border_radius=8&custom_title=TyKind%27s%20Performance&include_all_commits=true)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tykind&theme=dark&border_radius=10&border=ADADAD&background=151515)](https://git.io/streak-stats)
   :trollface:
-
 </details>
 
 <details>
