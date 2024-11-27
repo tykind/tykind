@@ -1,7 +1,7 @@
 ## 👋 Greetings
 
 #### 📜 About me
-Born in late 2007, I'm a young enthusiast navigating university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
+Enthusiast navigating university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
 
 🌐 Pronouns: He/Him
 
