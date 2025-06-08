@@ -43,6 +43,4 @@ I’m a full-stack developer and security enthusiast. I mainly work with Rust, C
 <details>
    <summary>🕊️ In Loving Memory of Kat</summary>
     <img alt="Kat vibing on chair" src="https://github.com/tykind/tykind/blob/main/kat%20on%20chair.jpg">
-    <img alt="Kat \& bella" src="https://github.com/tykind/tykind/blob/main/kat%20%26%20bella.jpg">
-    
 </details>
