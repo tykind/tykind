@@ -1,13 +1,13 @@
-## 👋 Greetings
+## 👋 Hey
 
-#### 📜 About me
-Enthusiast navigating university. The digital realm of computers fascinates me—peeling back their layers and understanding their core. Beyond the screen, I maintain my balance by hitting the gym. 
+I’m a full-stack developer and security enthusiast. I mainly work with Rust, C++, and Luau. I like building systems, tearing them apart, and figuring out what makes them tick.
 
-🌐 Pronouns: He/Him
+- 🧠 Currently studying CS
 
-#### ⚒️ My Craft
-As a full-stack developer and security researcher, I delve into many intriguing areas. While it's tough to box my interests, there's a consistent thread of passion and curiosity.
+- 🛠️ Focused on low-level dev, reverse engineering, and game tech
 
+- 💪 Gym rat
+---
 <details>
 <summary>:shipit: Tech Arsenal</summary>
 
