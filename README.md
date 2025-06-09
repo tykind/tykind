@@ -1,6 +1,6 @@
 ## 👋 Hey
 
-I’m a full-stack developer and security enthusiast. I mainly work with Rust, C++, and Luau. I like building systems, tearing them apart, and figuring out what makes them tick.
+I’m a full-stack developer and security enthusiast. I mainly work with Rust, C++, and Luau.
 
 - 🧠 Currently studying CS
 
