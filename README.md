@@ -2,8 +2,6 @@
 
 I’m a full-stack developer and security enthusiast. I mainly work with Rust, C++, and Luau.
 
-- 🧠 Currently studying CS
-
 - 🛠️ Focused on low-level dev, reverse engineering, and game tech
 
 - 💪 Gym rat
