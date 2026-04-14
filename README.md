@@ -28,15 +28,3 @@ I’m a full-stack developer and security enthusiast. I mainly work with Rust, C
    
    [![Discord Presence](https://lanyard.cnrad.dev/api/870554007108726855)](https://discord.com/users/870554007108726855)
 </details>
-
-<details>
-   <summary>📊 My Track Record</summary>
-
-  ![Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=tykind&count_private=true&bg_color=151515&text_color=ffffff&title_color=ffffff&icon_color=fb8c00&border_radius=8&custom_title=TyKind%27s%20Performance&include_all_commits=true)
-  :trollface:
-</details>
-
-<details>
-   <summary>🕊️ In Loving Memory of Kat</summary>
-    <img alt="Kat vibing on chair" src="https://github.com/tykind/tykind/blob/main/kat%20on%20chair.jpg">
-</details>
